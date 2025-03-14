@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along#readme",
   "dependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.4.5",
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
